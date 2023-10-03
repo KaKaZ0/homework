@@ -1,2 +1,0 @@
-# homework
-Web Programing Lab
